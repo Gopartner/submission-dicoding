@@ -1,0 +1,49 @@
+.nav-sweetalert .modal-content {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.nav-sweetalert .modal-header {
+  border-bottom: none;
+}
+
+.nav-sweetalert .modal-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-sweetalert .modal-body {
+  padding: 0;
+}
+
+.nav-sweetalert .modal-footer {
+  display: none;
+}
+
+.nav-sweetalert ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-sweetalert li {
+  padding: 10px 20px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.nav-sweetalert li:last-child {
+  border-bottom: none;
+}
+
+.nav-sweetalert a {
+  display: flex;
+  align-items: center;
+  color: #333;
+  text-decoration: none;
+}
+
+.nav-sweetalert a:hover {
+  background-color: #f5f5f5;
+}
+

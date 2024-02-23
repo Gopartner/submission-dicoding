@@ -1,0 +1,9 @@
+{
+  "menus": [
+    { "id": 1, "label": "Home", "link": "/", "icon": "svg-icon-for-home" },
+    { "id": 2, "label": "About", "link": "/about", "icon": "svg-icon-for-about" },
+    { "id": 3, "label": "Services", "link": "/services", "icon": "svg-icon-for-services" },
+    { "id": 4, "label": "Contact", "link": "/contact", "icon": "svg-icon-for-contact" }
+  ]
+}
+
